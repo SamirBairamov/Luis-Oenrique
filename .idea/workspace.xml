@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2734a7f-4310-4e13-85ce-9a467a2343e5" name="Default Changelist" comment="create section">
+    <list default="true" id="d2734a7f-4310-4e13-85ce-9a467a2343e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/.sass-cache/5778a5f8adc89d24ecb2ce6dbb5b54f6334a19d3/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/scss/.sass-cache/5778a5f8adc89d24ecb2ce6dbb5b54f6334a19d3/style.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1678">
-              <caret line="163" column="25" selection-start-line="163" selection-start-column="25" selection-end-line="163" selection-end-column="25" />
+            <state relative-caret-position="437">
+              <caret line="244" lean-forward="true" selection-start-line="244" selection-end-line="244" />
             </state>
           </provider>
         </entry>
@@ -25,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="117" column="20" lean-forward="true" selection-start-line="117" selection-start-column="20" selection-end-line="117" selection-end-column="20" />
+            <state relative-caret-position="522">
+              <caret line="196" column="23" selection-start-line="196" selection-start-column="23" selection-end-line="196" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -57,15 +61,15 @@
         <option value="$PROJECT_DIR$/Js/luise-sript.js" />
         <option value="$PROJECT_DIR$/../Author/index.html" />
         <option value="$PROJECT_DIR$/scss/style_2.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/style.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-547" />
     <option name="y" value="25" />
     <option name="width" value="1344" />
@@ -88,6 +92,11 @@
               <item name="Luis-Oenrique" type="b2602c69:ProjectViewProjectNode" />
               <item name="Luis-Oenrique" type="462c0819:PsiDirectoryNode" />
               <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Luis-Oenrique" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Luis-Oenrique" type="462c0819:PsiDirectoryNode" />
+              <item name="Js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Luis-Oenrique" type="b2602c69:ProjectViewProjectNode" />
@@ -135,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559934498007</updated>
-      <workItem from="1559934500818" duration="29019000" />
+      <workItem from="1559934500818" duration="40426000" />
     </task>
     <task id="LOCAL-00001" summary="add link and scripts in project">
       <created>1560013385130</created>
@@ -151,18 +160,25 @@
       <option name="project" value="LOCAL" />
       <updated>1560083576455</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create section full:&#10;luis&#10;know me&#10;services&#10;not finished class:&#10;skills">
+      <created>1560094332559</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560094332559</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29019000" />
+    <option name="totallyTimeSpent" value="40426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -188,7 +204,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add link and scripts in project" />
     <MESSAGE value="end of the first block" />
-    <option name="LAST_COMMIT_MESSAGE" value="end of the first block" />
+    <MESSAGE value="create section full:&#10;luis&#10;know me&#10;services&#10;not finished class:&#10;skills" />
+    <option name="LAST_COMMIT_MESSAGE" value="create section full:&#10;luis&#10;know me&#10;services&#10;not finished class:&#10;skills" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CSS/style.css">
@@ -212,15 +229,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="117" column="20" lean-forward="true" selection-start-line="117" selection-start-column="20" selection-end-line="117" selection-end-column="20" />
+        <state relative-caret-position="522">
+          <caret line="196" column="23" selection-start-line="196" selection-start-column="23" selection-end-line="196" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1678">
-          <caret line="163" column="25" selection-start-line="163" selection-start-column="25" selection-end-line="163" selection-end-column="25" />
+        <state relative-caret-position="437">
+          <caret line="244" lean-forward="true" selection-start-line="244" selection-end-line="244" />
         </state>
       </provider>
     </entry>

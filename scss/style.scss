@@ -70,15 +70,20 @@
 
   }
   a{
-    color: #4d4d4d;
+    background-color: transparent;
+    color: #a6a6a6;
     text-transform: uppercase;
     text-decoration: none;
-    background-color: transparent;
+    width: 100%;
+    line-height: 51px;
+    padding: 20px 50px 20px 50px;
     border: solid 1px black;
-    text-align: center;
-    font-size: 16px;
-    display: inline-block;
-    padding: 20px 54px 20px 49px;
+    &:hover{
+      background-color: white;
+      -webkit-box-shadow: 1px 16px 70px 1px #cacaca;
+      box-shadow: 1px 16px 70px 1px #cacaca;
+      border: none;
+    }
 
   }
   img{
@@ -96,6 +101,7 @@
   h2{
     color: #787878;
     font-size: 46px;
+    letter-spacing: 10px;
     text-transform: uppercase;
     text-align: center;
     font-weight: bolder;
@@ -114,9 +120,79 @@
   h2{
     text-transform: uppercase;
     color: #717171;
+    letter-spacing: 10px;
     font-weight: bolder;
     font-size: 46px;
 
   }
+  img{
+    width: 100%;
+    text-align: center;
+  }
 
+}
+
+.portfolio{
+  padding-top: 126px;
+  padding-bottom: 122px;
+  text-align: center;
+  h2{
+    text-transform: uppercase;
+    color: #717171;
+    letter-spacing: 10px;
+    font-weight: bolder;
+    font-size: 46px;
+  }
+  .col-md-4 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    img {
+      &:hover {
+        background-color: white;
+        -webkit-box-shadow: 1px 16px 70px 1px #cacaca;
+        box-shadow: 1px 16px 70px 1px #cacaca;
+        border: none;
+      }
+    }
+  }
+  a.p_button {
+    background-color: transparent;
+    color: #a6a6a6;
+    text-transform: uppercase;
+    text-decoration: none;
+    width: 100%;
+    line-height: 51px;
+    padding: 20px 50px 20px 50px;
+    border: solid 1px black;
+    margin-top: 30px;
+    &:hover {
+      background-color: white;
+      -webkit-box-shadow: 1px 16px 70px 1px #cacaca;
+      box-shadow: 1px 16px 70px 1px #cacaca;
+      border: none;
+    }
+  }
+}
+
+.testimonials{
+  padding-top: 126px;
+  padding-bottom: 122px;
+  text-align: center;
+  h2{
+    text-transform: uppercase;
+    color: #717171;
+    letter-spacing: 10px;
+    font-weight: bolder;
+    font-size: 46px;
+  }
+}
+
+.productivity{
+  background-color: #f6f6f6;
+  width: 100%;
+  text-align: center;
+  padding-top: 54px;
+  padding-bottom: 67px;
 }
