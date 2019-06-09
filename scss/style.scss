@@ -1,0 +1,46 @@
+.navbar-default{
+  border: none;
+  width: 100%;
+  box-shadow: none;
+  margin-bottom: 0;
+  background-image: url("../bg_luis.png");
+  .navbar-nav{
+    a{
+      text-transform: uppercase;
+      border-bottom: solid 2px transparent;
+            &:hover{
+        border-bottom: solid 2px black;
+      }
+    }
+  }
+  .luis{
+    padding-top: 201px;
+    padding-bottom: 300px;
+
+  }
+  h1{
+    font-size: 89px;
+    color: #4d4d4d;
+    padding-bottom: 30px;
+    }
+  h3{
+    font-size: 22px;
+    color: #4d4d4d;
+    padding-bottom: 33px;
+    }
+  .luis a{
+    background-color: white;
+    color: #a6a6a6;
+    text-transform: uppercase;
+    text-decoration: none;
+    width: 100%;
+    line-height: 51px;
+    padding: 20px 30px 20px 30px;
+    margin-right: 20px;
+    &:hover{
+      background-color: transparent;
+      border: solid 1px black;
+
+    }
+  }
+}
